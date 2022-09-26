@@ -6,7 +6,8 @@
 > Un conteneur de state pour les apps en JS
 
 
-![](redux.jpg)
+![image](https://user-images.githubusercontent.com/104289891/192323129-dfa6641e-8e68-4a5f-8528-5d67009e5147.png)
+
 
 **conteneur (store):**
 

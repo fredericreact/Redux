@@ -55,3 +55,7 @@ store.dispatch(sampleAction);
 // Celle ligne va réexécuter le reducer, qui va recevoir le state actuel, ainsi que l'action que je viens de lui donner, et va me retourner un nouveau state.
 
 ```
+
+#React-Redux
+
+![image](https://user-images.githubusercontent.com/104289891/192476348-9c112cf4-8e71-4283-823d-5af57f657df9.png)
